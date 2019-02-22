@@ -1,3 +1,3 @@
 consol.error("HALP")
-consol.log("Yo")
+consol.log("I would be a logger!")
 consol.warn("Please")
