@@ -1,3 +1,3 @@
-consol.error("HALP")
-consol.log("I would be a logger!")
-consol.warn("Stop what you are doing!")
+console.error("HALP")
+console.log("I would be a logger!")
+console.warn("Stop what you are doing!")
